@@ -1,9 +1,5 @@
 # Awesome Compose [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![logo](awesome-compose.jpg)
-
-> A curated list of Docker Compose samples.
-
 These samples provide a starting point for how to integrate different services using a Compose file and to manage their deployment with Docker Compose.
 
 > **Note**
@@ -109,13 +105,3 @@ To stop and remove all containers of the sample application run:
 ```console
 docker compose down
 ```
-
-### Quickstart guides
-
-In addition to all the ready to run Compose samples listed above the folder [official-documentation-samples](official-documentation-samples/README.md) contains quickstart guides. Each of these step by step guides explain which files need to be created to build and run a Docker Compose application.
-
-<!--lint disable awesome-toc-->
-## Contribute
-
-We welcome examples that help people understand how to use Docker Compose for
-common applications. Check the [Contribution Guide](CONTRIBUTING.md) for more details. 
